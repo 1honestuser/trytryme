@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://liberatehongkong.gitlab.io/blackmirror-frontend/static/css/main.3a0dfa73.chunk.css",
-    "main.js": "https://liberatehongkong.gitlab.io/blackmirror-frontend/static/js/main.e21ba66a.chunk.js",
-    "main.js.map": "https://liberatehongkong.gitlab.io/blackmirror-frontend/static/js/main.e21ba66a.chunk.js.map",
-    "runtime~main.js": "https://liberatehongkong.gitlab.io/blackmirror-frontend/static/js/runtime~main.4de64900.js",
-    "runtime~main.js.map": "https://liberatehongkong.gitlab.io/blackmirror-frontend/static/js/runtime~main.4de64900.js.map",
-    "static/css/2.2241e3bd.chunk.css": "https://liberatehongkong.gitlab.io/blackmirror-frontend/static/css/2.2241e3bd.chunk.css",
-    "static/js/2.72d9f4aa.chunk.js": "https://liberatehongkong.gitlab.io/blackmirror-frontend/static/js/2.72d9f4aa.chunk.js",
-    "static/js/2.72d9f4aa.chunk.js.map": "https://liberatehongkong.gitlab.io/blackmirror-frontend/static/js/2.72d9f4aa.chunk.js.map",
-    "index.html": "https://liberatehongkong.gitlab.io/blackmirror-frontend/index.html",
-    "precache-manifest.4a3c8610ee4614fc12882d4a60c2a86d.js": "https://liberatehongkong.gitlab.io/blackmirror-frontend/precache-manifest.4a3c8610ee4614fc12882d4a60c2a86d.js",
-    "service-worker.js": "https://liberatehongkong.gitlab.io/blackmirror-frontend/service-worker.js",
-    "static/css/2.2241e3bd.chunk.css.map": "https://liberatehongkong.gitlab.io/blackmirror-frontend/static/css/2.2241e3bd.chunk.css.map",
-    "static/css/main.3a0dfa73.chunk.css.map": "https://liberatehongkong.gitlab.io/blackmirror-frontend/static/css/main.3a0dfa73.chunk.css.map",
-    "static/media/blue.png": "https://liberatehongkong.gitlab.io/blackmirror-frontend/static/media/blue.3aa93a7c.png",
-    "static/media/fontello.css": "https://liberatehongkong.gitlab.io/blackmirror-frontend/static/media/fontello.e8271083.ttf",
-    "static/media/image.png": "https://liberatehongkong.gitlab.io/blackmirror-frontend/static/media/image.cf78a1d4.png"
+    "main.css": "https://1honestuser.github.io/trytryme/static/css/main.f1c8ccc5.chunk.css",
+    "main.js": "https://1honestuser.github.io/trytryme/static/js/main.d49580e5.chunk.js",
+    "main.js.map": "https://1honestuser.github.io/trytryme/static/js/main.d49580e5.chunk.js.map",
+    "runtime~main.js": "https://1honestuser.github.io/trytryme/static/js/runtime~main.0148f724.js",
+    "runtime~main.js.map": "https://1honestuser.github.io/trytryme/static/js/runtime~main.0148f724.js.map",
+    "static/css/2.2241e3bd.chunk.css": "https://1honestuser.github.io/trytryme/static/css/2.2241e3bd.chunk.css",
+    "static/js/2.72d9f4aa.chunk.js": "https://1honestuser.github.io/trytryme/static/js/2.72d9f4aa.chunk.js",
+    "static/js/2.72d9f4aa.chunk.js.map": "https://1honestuser.github.io/trytryme/static/js/2.72d9f4aa.chunk.js.map",
+    "index.html": "https://1honestuser.github.io/trytryme/index.html",
+    "precache-manifest.37e6892b692ea6a7a3ae066491481c2c.js": "https://1honestuser.github.io/trytryme/precache-manifest.37e6892b692ea6a7a3ae066491481c2c.js",
+    "service-worker.js": "https://1honestuser.github.io/trytryme/service-worker.js",
+    "static/css/2.2241e3bd.chunk.css.map": "https://1honestuser.github.io/trytryme/static/css/2.2241e3bd.chunk.css.map",
+    "static/css/main.f1c8ccc5.chunk.css.map": "https://1honestuser.github.io/trytryme/static/css/main.f1c8ccc5.chunk.css.map",
+    "static/media/blue.png": "https://1honestuser.github.io/trytryme/static/media/blue.3aa93a7c.png",
+    "static/media/fontello.css": "https://1honestuser.github.io/trytryme/static/media/fontello.e8271083.ttf",
+    "static/media/image.png": "https://1honestuser.github.io/trytryme/static/media/image.cf78a1d4.png"
   }
 }
